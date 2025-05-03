@@ -1,0 +1,112 @@
+[
+  {
+    "title": "agent_thought_loop.py",
+    "agent": "auto-detekt",
+    "status": "\ud83c\udd95 updated",
+    "impact": "medium",
+    "urgency": "normal",
+    "theme": "code",
+    "location": "tools/flurplan/agent_thought_loop.py",
+    "created_at": "2025-05-02T20:36:20.668737"
+  },
+  {
+    "title": "apply_thoughtloop_updates.py",
+    "agent": "auto-detekt",
+    "status": "\ud83c\udd95 updated",
+    "impact": "medium",
+    "urgency": "normal",
+    "theme": "code",
+    "location": "tools/flurplan/apply_thoughtloop_updates.py",
+    "created_at": "2025-05-02T20:36:20.668755"
+  },
+  {
+    "title": "crawl_as_is.py",
+    "agent": "auto-detekt",
+    "status": "\ud83c\udd95 updated",
+    "impact": "medium",
+    "urgency": "normal",
+    "theme": "code",
+    "location": "tools/flurplan/crawl_as_is.py",
+    "created_at": "2025-05-02T20:36:20.668756"
+  },
+  {
+    "title": "crawl_repo_wide.py",
+    "agent": "auto-detekt",
+    "status": "\ud83c\udd95 updated",
+    "impact": "medium",
+    "urgency": "normal",
+    "theme": "code",
+    "location": "tools/flurplan/crawl_repo_wide.py",
+    "created_at": "2025-05-02T20:36:20.668757"
+  },
+  {
+    "title": "flurplan_upgrade.py",
+    "agent": "auto-detekt",
+    "status": "\ud83c\udd95 updated",
+    "impact": "medium",
+    "urgency": "normal",
+    "theme": "code",
+    "location": "tools/flurplan/flurplan_upgrade.py",
+    "created_at": "2025-05-02T20:36:20.668758"
+  },
+  {
+    "title": "flurplan_v2.py",
+    "agent": "auto-detekt",
+    "status": "\ud83c\udd95 updated",
+    "impact": "medium",
+    "urgency": "normal",
+    "theme": "code",
+    "location": "tools/flurplan/flurplan_v2.py",
+    "created_at": "2025-05-02T20:36:20.668759"
+  },
+  {
+    "title": "flurplan_v3.json",
+    "agent": "auto-detekt",
+    "status": "\ud83c\udd95 updated",
+    "impact": "medium",
+    "urgency": "normal",
+    "theme": "code",
+    "location": "tools/flurplan/flurplan_v3.json",
+    "created_at": "2025-05-02T20:36:20.668761"
+  },
+  {
+    "title": "change_log.json",
+    "agent": "auto-detekt",
+    "status": "\ud83c\udd95 updated",
+    "impact": "medium",
+    "urgency": "normal",
+    "theme": "code",
+    "location": "tools/flurplan/logs/change_log.json",
+    "created_at": "2025-05-02T20:36:20.668762"
+  },
+  {
+    "title": "sync_and_update_controller.py",
+    "agent": "auto-detekt",
+    "status": "\ud83c\udd95 updated",
+    "impact": "medium",
+    "urgency": "normal",
+    "theme": "code",
+    "location": "tools/flurplan/sync_and_update_controller.py",
+    "created_at": "2025-05-02T20:36:20.668762"
+  },
+  {
+    "title": "thoughtloop_suggestions.json",
+    "agent": "auto-detekt",
+    "status": "\ud83c\udd95 updated",
+    "impact": "medium",
+    "urgency": "normal",
+    "theme": "code",
+    "location": "tools/flurplan/thoughtloop_suggestions.json",
+    "created_at": "2025-05-02T20:36:20.668763"
+  },
+  {
+    "title": "thoughtloop_suggestions_all_agents.json",
+    "agent": "auto-detekt",
+    "status": "\ud83c\udd95 updated",
+    "impact": "medium",
+    "urgency": "normal",
+    "theme": "code",
+    "location": "tools/flurplan/thoughtloop_suggestions_all_agents.json",
+    "created_at": "2025-05-02T20:36:20.668764"
+  }
+]
