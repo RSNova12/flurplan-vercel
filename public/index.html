@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <title>NOAH AI – C-Level Flurplan</title>
+  <script defer src="loader.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 2rem; }
+    table { width: 100%; border-collapse: collapse; margin-top: 1rem; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+    th { background-color: #f5f5f5; }
+    select, input { margin-right: 10px; }
+    #dashboard { margin-top: 1rem; color: red; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <h1>NOAH AI – C-Level Flurplan</h1>
+
+  <label for="agentSelect">Agent:</label>
+  <select id="agentSelect">
+    <option value="Alle">Alle</option>
+  </select>
+
+  <label for="statusSelect">Status:</label>
+  <select id="statusSelect">
+    <option value="Alle">Alle</option>
+    <option value="active">active</option>
+    <option value="wip">wip</option>
+    <option value="review">review</option>
+    <option value="deprecated">deprecated</option>
+  </select>
+
+  <input type="text" id="searchInput" placeholder="Suche nach Titel...">
+
+  <table>
+    <thead>
+      <tr>
+        <th>Titel</th>
+        <th>Agent</th>
+        <th>Status</th>
+        <th>Impact</th>
+        <th>Urgency</th>
+        <th>Theme</th>
+        <th>Location</th>
+        <th>Created At</th>
+      </tr>
+    </thead>
+    <tbody id="flurplanBody"></tbody>
+  </table>
+
+  <div id="dashboard"></div>
+</body>
+</html>
+
